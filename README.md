@@ -1,6 +1,6 @@
 # Sorting-algorithms-training
 A simple code where write famous sorting algorithms, from simple ones to more complex ones. 
-Done purely for eduction and study purposes. 
+Done purely for education and study purposes. 
 Includes a time measurement to compare the speed of each one.
 
 # To do list
