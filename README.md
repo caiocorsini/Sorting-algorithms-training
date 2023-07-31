@@ -7,7 +7,7 @@ Includes a time measurement to compare the speed of each one.
 There is still a lot of work to be done at the time of posting. I am still quite a beginner, so it might take a while.
 I am still going to add:
 
--> More sorting algorithms
--> Comments and documentation
--> Optimization of overall code
--> Bug fixes
+- More sorting algorithms
+- Comments and documentation
+- Optimization of overall code
+- Bug fixes
