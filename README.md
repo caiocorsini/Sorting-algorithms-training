@@ -7,10 +7,12 @@ The lists are entirely composed of integers and are always sorted in ascending o
 The program provides the user with the following small premade list: [3,7,8,8,4,2,6,1], which can be replaced by customizable one by the user.
 
 # Libraries used
-*random (randInt() function)
+- random (randInt() function)
+
 Used randInt for generating lists composed of random integers to test in te different sorting algorithms
 
-*time (time() function)
+- time (time() function)
+
 Used for timing the duration of each sorting algorithm
 
 # Bubble sort
